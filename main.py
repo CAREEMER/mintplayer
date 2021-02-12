@@ -1,7 +1,7 @@
-import static
+import classes
 
-mp = static.Printer()
-cmd = static.Command()
+mp = classes.Printer()
+cmd = classes.Command()
 mp.print('Welcome to the mintplayer!')
 mp.print('Enter the command below: (help for an help)')
 
